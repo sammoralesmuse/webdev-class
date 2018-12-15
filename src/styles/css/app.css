@@ -12,7 +12,7 @@ h1, h6 {
 
 .hero-gradient {
   color: white;
-  background: linear-gradient(to right, red , yellow);
+  background: linear-gradient(to right, green , blue);
 }
 
 .front-page-box h6 {
